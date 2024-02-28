@@ -41,3 +41,8 @@
 .navbar .nav-links a:hover {
   color: #04AA6D;
 }
+
+.frontpagepic {
+  height: 10px;
+  width: auto;
+}
