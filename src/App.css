@@ -1,0 +1,12 @@
+.navbar {
+display: flex;
+top: 0px;
+}
+
+.navbar nav {
+  background-color: aquamarine;
+}
+
+.navbar nav p {
+  color: red;
+}
